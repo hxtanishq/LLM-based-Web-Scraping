@@ -1,0 +1,44 @@
+[
+  {
+    "business_name": "New York City Bulk Item Curbside Program",
+    "last_update_date": "",
+    "street_address": "New York, NY 10001",
+    "materials_category": [
+      "Electronics"
+    ],
+    "materials_accepted": [
+      "Dehumidifiers",
+      "Humidifiers",
+      "Air Conditioners"
+    ]
+  },
+  {
+    "business_name": "IMobile LLC",
+    "last_update_date": "",
+    "street_address": "370 7th Ave, New York, NY 10001",
+    "materials_category": [
+      "Electronics"
+    ],
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "business_name": "The 4th Bin",
+    "last_update_date": "",
+    "street_address": "307 7th Ave, New York, NY 10001",
+    "materials_category": [
+      "Electronics"
+    ],
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Inkjet Cartridges",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Toner Cartridges"
+    ]
+  }
+]
